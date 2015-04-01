@@ -1,0 +1,74 @@
+--------------------------------
+Statistics for fault 1:
+Tests which expose this fault: 
+	7 10 14 16 17 33 35 44 55 56 
+	57 70 71 74 79 84 87 96 102 111 
+	118 120 130 134 143 146 148 153 154 155 
+	162 171 178 180 182 196 201 206 207 214 
+	222 223 237 238 255 261 278 285 289 295 
+	1561 1567 1569 1581 1585 2462 2465 2595 2596 2599 
+	2616 2650 2655 2661 2663 
+Percentage of tests which expose this fault is 2.39852 %
+--------------------------------
+Statistics for fault 2:
+Tests which expose this fault: 
+	2367 2373 2374 2391 2394 2591 2592 2593 2594 2595 
+	2596 2598 2602 2603 2607 2608 2609 2611 2613 2614 
+	2615 2616 2618 2619 2625 2629 2636 2639 2641 2648 
+	2649 
+Percentage of tests which expose this fault is 1.14391 %
+--------------------------------
+Statistics for fault 3:
+Tests which expose this fault: 
+	1779 1810 1816 1852 1861 1933 2225 2236 2423 2424 
+	2425 2429 2430 2431 2432 2433 2434 2435 2436 2437 
+	2438 2541 2572 2573 2574 2576 2579 2584 2585 2586 
+	2587 2588 2589 2590 
+Percentage of tests which expose this fault is 1.25461 %
+--------------------------------
+Statistics for fault 4:
+Tests which expose this fault: 
+	2481 2502 
+Percentage of tests which expose this fault is 0.07380 %
+--------------------------------
+Statistics for fault 5:
+Tests which expose this fault: 
+	1771 1775 1777 1779 1780 1781 1793 1797 1798 1802 
+	1805 1807 1809 1810 1816 1818 1824 1826 1831 1833 
+	1842 1849 1850 1852 1861 2429 2430 2431 2432 2573 
+	2574 2579 
+Percentage of tests which expose this fault is 1.18081 %
+--------------------------------
+Statistics for fault 6:
+Tests which expose this fault: 
+	2384 2406 2411 2414 2475 2485 2528 
+Percentage of tests which expose this fault is 0.25830 %
+--------------------------------
+Statistics for fault 7:
+Tests which expose this fault: 
+	2367 2373 2374 2391 2394 2591 2592 2593 2594 2595 
+	2596 2598 2602 2603 2607 2608 2609 2611 2613 2614 
+	2615 2616 2618 2619 2625 2629 2636 2639 2641 2648 
+	2649 
+Percentage of tests which expose this fault is 1.14391 %
+--------------------------------
+Statistics for fault 8:
+Tests which expose this fault: 
+	1400 1401 1513 1521 1529 1530 1535 1541 1545 1553 
+	1556 1557 1558 1559 1560 1561 1562 1564 1565 1567 
+	1568 1569 1570 1571 1572 1573 1574 1575 1576 1578 
+	1579 1580 1581 1582 1583 1584 1585 1594 1601 1610 
+	1615 1630 1642 1643 1650 1659 1660 1662 1665 1679 
+	1681 1682 2384 2396 2402 2403 2406 2411 2447 2448 
+	2449 2450 2459 2460 2461 2462 2464 2465 
+Percentage of tests which expose this fault is 2.50923 %
+--------------------------------
+Statistics for fault 9:
+Tests which expose this fault: 
+	1400 1401 1521 1529 1530 1545 1556 1557 1558 1559 
+	1560 1562 1564 1565 1567 1569 1570 1571 1572 1573 
+	1574 1575 1576 1579 1581 1582 1583 1584 1585 1601 
+	1610 1630 1650 1659 1660 1662 1665 1681 2411 2447 
+	2448 2459 2460 2462 2464 2465 
+Percentage of tests which expose this fault is 1.69742 %
+--------------------------------

@@ -1,0 +1,53 @@
+--------------------------------
+Statistics for fault 1:
+Tests which expose this fault: 
+	1 5 7 
+Percentage of tests which expose this fault is 0.26415 %
+--------------------------------
+Statistics for fault 2:
+Tests which expose this fault: 
+	2 3 
+Percentage of tests which expose this fault is 7.92453 %
+--------------------------------
+Statistics for fault 3:
+Tests which expose this fault: 
+	1 
+	8 
+Percentage of tests which expose this fault is 6.00000 %
+--------------------------------
+Statistics for fault 4:
+Tests which expose this fault: 
+	4 6 
+Percentage of tests which expose this fault is 11.09434 %
+--------------------------------
+Statistics for fault 5:
+Tests which expose this fault: 
+	3 6 
+Percentage of tests which expose this fault is 1.54717 %
+--------------------------------
+Statistics for fault 6:
+Tests which expose this fault: 
+	1 4 5 
+Percentage of tests which expose this fault is 0.26415 %
+--------------------------------
+Statistics for fault 7:
+Tests which expose this fault: 
+	3 7 
+Percentage of tests which expose this fault is 1.01887 %
+--------------------------------
+Statistics for fault 8:
+Tests which expose this fault: 
+	2 4 
+	6 7 
+Percentage of tests which expose this fault is 1.16981 %
+--------------------------------
+Statistics for fault 9:
+Tests which expose this fault: 
+	1 4 
+Percentage of tests which expose this fault is 0.86792 %
+--------------------------------
+Statistics for fault 10:
+Tests which expose this fault: 
+	5 8 
+Percentage of tests which expose this fault is 0.86792 %
+--------------------------------
